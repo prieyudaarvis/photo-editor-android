@@ -57,7 +57,7 @@ public class BrushDrawingView extends View {
         drawPaint.setStrokeJoin(Paint.Join.ROUND);
         drawPaint.setStrokeCap(Paint.Cap.ROUND);
         drawPaint.setStrokeWidth(brushSize);
-        drawPaint.setXfermode(new PorterDuffXfermode(PorterDuff.Mode.DARKEN));
+//         drawPaint.setXfermode(new PorterDuffXfermode(PorterDuff.Mode.DARKEN));
         canvasPaint = new Paint(Paint.DITHER_FLAG);
         this.setVisibility(View.GONE);
     }
@@ -70,7 +70,7 @@ public class BrushDrawingView extends View {
         drawPaint.setStrokeJoin(Paint.Join.ROUND);
         drawPaint.setStrokeCap(Paint.Cap.ROUND);
         drawPaint.setStrokeWidth(brushSize);
-        drawPaint.setXfermode(new PorterDuffXfermode(PorterDuff.Mode.DARKEN));
+//         drawPaint.setXfermode(new PorterDuffXfermode(PorterDuff.Mode.DARKEN));
     }
 
     void brushEraser() {
