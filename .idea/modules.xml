@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PhotoEditor.iml" filepath="$PROJECT_DIR$/PhotoEditor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/photoeditorsdk/photoeditorsdk.iml" filepath="$PROJECT_DIR$/photoeditorsdk/photoeditorsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/photo-editor-android.iml" filepath="$PROJECT_DIR$/.idea/modules/photo-editor-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/photo-editor-android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/photo-editor-android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/photo-editor-android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/photo-editor-android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/photo-editor-android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/photo-editor-android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/photo-editor-android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/photo-editor-android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/photoeditorsdk/photo-editor-android.photoeditorsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/photoeditorsdk/photo-editor-android.photoeditorsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/photoeditorsdk/photo-editor-android.photoeditorsdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/photoeditorsdk/photo-editor-android.photoeditorsdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/photoeditorsdk/photo-editor-android.photoeditorsdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/photoeditorsdk/photo-editor-android.photoeditorsdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/photoeditorsdk/photo-editor-android.photoeditorsdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/photoeditorsdk/photo-editor-android.photoeditorsdk.unitTest.iml" />
     </modules>
   </component>
 </project>
